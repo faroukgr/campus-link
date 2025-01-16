@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "campus-link-e368c": {
+      "hosting": {
+        "campus link": [
+          "campus-link-e368c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "campus-link-e368c"
+  }
+}
